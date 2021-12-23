@@ -1,0 +1,16 @@
+\echo -------------------- Loading schema and data: -------------------- 
+\echo
+\i schema.ddl
+\i import.sql
+\echo
+\echo  -------------------- Investigative Question 1: ------------------ 
+\echo
+\i queriesQ1.sql
+\echo
+\echo  -------------------- Investigative Question 2: ------------------ 
+\echo
+\i queriesQ2.sql
+\echo
+\echo  -------------------- Investigative Question 3: ------------------
+\echo
+\i queriesQ3.sql
