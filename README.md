@@ -34,6 +34,6 @@ The cleaning process and sample cleaned data are recorded [here](https://github.
 
 ### Phase 3
 
-We wrote queries to investigate our questions, and based on the results, we came up with follow-up questions and use queries to answer those questions.
+We wrote the schema and specification, and used queries to investigate our questions, and based on the results, we came up with follow-up questions and use queries to answer those questions.
 
 The results and the process are recorded [here](https://github.com/yiyi-z/Project-CSC343-SQL-MovieRating/blob/main/documentation/3-Investigation%20Process%20and%20Result.pdf).
