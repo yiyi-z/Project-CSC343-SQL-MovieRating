@@ -1,7 +1,7 @@
 # Movie Rating Study
 Term project for CSC343 using PostgreSQL
 
-Hilda Wang and I worked together on this project :)
+[Hilda Wang](https://github.com/hildawang0807) and I worked together on this project :)
 
 ## What is this project about?
 Our goal in this project is to find some factors that affect movie ratings.
